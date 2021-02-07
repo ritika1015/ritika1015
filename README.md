@@ -22,9 +22,6 @@
 <a href="https://github.com/ritika1015/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=ADTrap" />
 </a>
-<a href="https://github.com/ritika1015/convoychat">
+<a href="https://github.com/ritika1015/Image-Classification-with-Fashion-MNIST">
   <img align="center" src="https://github.com/ritika1015/Image-Classification-with-Fashion-MNIST" />
 </a>
-
-
-[![ritika1015.to](https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=ADTrap)](https://github.com/ritika1015/ADTrap)
