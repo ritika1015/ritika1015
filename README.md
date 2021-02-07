@@ -8,9 +8,7 @@
 - 💻 I’m looking to collaborate on projects(open source)
 - 📫 Reach me at: ritikasaxena0320@gmail.com
 - 😜 Fun fact: I consider myself a proficient artist
-
-
-Skills: C, C++, Python, R, HTML/CSS, PHP, Javascript
+- Skills: C, C++, Python, R, HTML/CSS, PHP, Javascript
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritika1015)](https://github.com/anuraghazra/github-readme-stats)
