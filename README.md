@@ -8,4 +8,10 @@
 - 📫 Reach me at: ritikasaxena0320@gmail.com
 - 😜 Fun fact: I consider myself a proficient artist
 
+
+
 ![ritika1015's github stats](https://github-readme-stats.vercel.app/api?username=ritika1015)
+
+
+
+[![ritika1015.to](https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=ADTrap)](https://github.com/ritika1015/ADTrap)
