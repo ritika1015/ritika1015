@@ -20,10 +20,10 @@
 
 
 <a href="https://github.com/ritika1015/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=ADTrap" />
 </a>
 <a href="https://github.com/ritika1015/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritika1015&repo=convoychat" />
+  <img align="center" src="https://github.com/ritika1015/Image-Classification-with-Fashion-MNIST" />
 </a>
 
 
