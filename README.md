@@ -1,4 +1,4 @@
-### Hola, I'm Ritika Saxena 👋
+### Hola, I'm Ritika Saxena! 👋
 
 - 🎓 Pre-Final Year, at SSTC, SSGI-Bhilai
 - 🎓 Bachelor of Engineering, Major: Computer Science and Engineering
