@@ -7,3 +7,5 @@
 - 💻 I’m looking to collaborate on projects(open source)
 - 📫 Reach me at: ritikasaxena0320@gmail.com
 - 😜 Fun fact: I consider myself a proficient artist
+
+![ritika1015's github stats](https://github-readme-stats.vercel.app/api?username=ritika1015)
