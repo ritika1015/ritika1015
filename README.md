@@ -1,7 +1,7 @@
 ## 👋 Hola, I'm Ritika Saxena
 
 
-- 🎓 Final Year, at SSTC, SSGI-Bhilai
+- 🎓 Final Year, @ SSTC, SSGI-Bhilai
 - 🎓 Bachelor of Engineering, Major: Computer Science and Engineering
 - 🔭 Currently exploring Machine Learining 
 - 📚 I’m currently learning .Net
